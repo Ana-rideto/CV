@@ -1,12 +1,12 @@
 ## Daniel Pustotin
 *iOS developer*
 
-[Email](daniel.pustotin@gmail.com)
-/ [GitHub](https://github.com/heartsker)
-/ [Telegram](https://t.me/heartsker)
-/ `+7-(920)-000-81-50`
+[📬 Email](daniel.pustotin@gmail.com)
+/ [🐙 GitHub](https://github.com/heartsker)
+/ [💬 Telegram](https://t.me/heartsker)
+/ 📲 `+7-(920)-000-81-50`
 
-#### ABOUT ME
+#### 👋 ABOUT ME
 Hi, my name is Daniel, and I am 20 y.o.
 
 I have been learning programming since I was a kid. Solving complex and unordinarily problems always attracted me. That is my passion. I cannot imagine my everyday life without trying out something new in my developer's career.
@@ -15,7 +15,10 @@ I love to lead the development process and control my teammates to follow the pl
 
 My dream is to create an innovative and revolutionary product. That must be my masterpiece.
 
-## Skills
+## 💬 Personal profile
+I started learning programming ten years ago in school. Every day I grow up and improve my skills. I have experience in QA- Engineering and automatic testing and iOS development. I try to follow the latest technologies and
+use them in my pet-projects. Without doubt, my competitive programming experience helps me a lot in any kind of work.
+## 💪 Skills
 ### Stack
 - Git
 - Smart SVC
@@ -39,7 +42,7 @@ My dream is to create an innovative and revolutionary product. That must be my m
 - Makefiles and scripting
 - Managing the project structure
 
-## Academic history
+## 🤓 Academic history
 - **Higher School of Economics**
 
     Bachelor of Computer Science
@@ -48,7 +51,7 @@ My dream is to create an innovative and revolutionary product. That must be my m
 
     [Applied Mathematics and Information Science](https://www.hse.ru/en/ba/ami/)
 
-## Engineering Experience
+## 👨‍💻 Engineering Experience
 
 - **QA-Engineer**
 
@@ -87,11 +90,7 @@ My dream is to create an innovative and revolutionary product. That must be my m
     - Developing new module for app
     - Improving existing modules structure
 
-## Personal profile
-I started learning programming ten years ago in school. Every day I grow up and improve my skills. I have experience in QA- Engineering and automatic testing and iOS development. I try to follow the latest technologies and
-use them in my pet-projects. Without doubt, my competitive programming experience helps me a lot in any kind of work.
-
-## Awards and achievements
+## 🥇 Awards and achievements
 - ***ICPC*** 2020 - Semifinalist
 - ***HashCode*** 2021 - Top-30%
 - ***Reply Challenge*** 2021 - #105 of 1923
