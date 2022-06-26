@@ -9,7 +9,7 @@
 #### 👋 ABOUT ME
 Hi, my name is Daniel, and I am 20 y.o.
 
-I have been learning programming since I was a kid. Solving complex and unordinarily problems always attracted me. That is my passion. I cannot imagine my everyday life without trying out something new in my developer's career.
+I have been learning programming since I was a kid. Solving complex and unordinary problems always attracted me. That is my passion. I cannot imagine my everyday life without trying out something new in my developer's career.
 
 I love to lead the development process and control my teammates to follow the plan. Likewise, I am kind of perfectionist at this point. Everything should be done right and that is the only one possible option for me.
 
@@ -34,7 +34,7 @@ use them in my pet-projects. Without doubt, my competitive programming experienc
 - SpriteKit
 - Unit/UI testing
 - GCD and operations
-- Asyncronous programming
+- Asynchronous programming
 
 ### Basic knowledge
 - Design patterns
