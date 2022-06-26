@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# Daniel Pustotin
+### iOS developer
 
-You can use the [editor on GitHub](https://github.com/heartsker/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### ABOUT ME
+Hi, my name is Daniel, and I am 20 y.o.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been learning programming since I was a kid. Solving complex and unordinarily problems always attracted me. That is my passion. I cannot imagine my everyday life without trying out something new in my developer's career.
 
-### Markdown
+I love to lead the development process and control my teammates to follow the plan. Likewise, I am kind of perfectionist at this point. Everything should be done right and that is the only one possible option for me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My dream is to create an innovative and revolutionary product. That must be my masterpiece.
 
-```markdown
-Syntax highlighted code block
+## Skills
+### Stack
+- Git
+- Smart SVC
+- JIRA
+- Figma
+- Proxyman
 
-# Header 1
-## Header 2
-### Header 3
+### iOS stack
+- UIKit, SwiftUI, Storyboard
+- Reactive programming: Bond and RxSwift
+- Network: Alamofire, experience with creating and working with REST API
+- Storing data: UserDefaults, CoreData, Realm
+- SpriteKit
+- Unit/UI testing
+- GCD and operations
+- Asyncronous programming
 
-- Bulleted
-- List
+### Basic knowledge
+- Design patterns
+- REST API
+- Makefiles and scripting
+- Managing the project structure
 
-1. Numbered
-2. List
+## Academic history
+- **Higher School of Economics**
 
-**Bold** and _Italic_ and `Code` text
+    Bachelor of Computer Science 2019 - 2024 - [Applied Mathematics and Information Science](https://www.hse.ru/en/ba/ami/)
 
-[Link](url) and ![Image](src)
-```
+## Personal career
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- **QA-Enginier**
 
-### Jekyll Themes
+    [*GS-Soft*](https://www.gs-soft.com/CMS/en/) (May 2018 - July 2021)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heartsker/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    - Full-stack development
+    - Primarily automated testing and QA-enginiering
 
-### Support or Contact
+- **iOS-development courses mentor**
+    
+    [*Skillbox*](https://skillbox.ru) (June 2021 - April 2022)
+    
+    - Homework reviews and mentoring
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **iOS-development courses creator**
+
+    [*Skillbox*](https://skillbox.ru) (September 2021 - April 2022)
+
+    - Improvements of existing courses
+    - Creating tasks and theory long reads for students
+
+- **Tinkoff iOS developer internship**
+
+    [Tinkoff](https://www.tinkoff.ru) (Feb 2022 - May 2022)
+
+    - Fixing critical issues and vulnerabilities
+    - Implementing new features for Mobile Bank
+    - Developing new module for app
+    - Improving existing modules structure
+
+## Personal profile
+I started learning programming ten years ago in school. Every day I grow up and improve my skills. I have experience in QA- Engineering and automatic testing and iOS development. I try to follow the latest technologies and
+use them in my pet-projects. Without doubt, my competitive programming experience helps me a lot in any kind of work.
+
+## Awards and achievements
+- ICPC 2020 - Semifinalist
+- HashCode 2021 - Top-30%
+- Reply Challenge 2021 - #105 of 1923
+
+## Contact infomation
+Phone: +7-(920)-000-81-50
+
+Email: daniel.pustotin@gmail.com
+
+Telegram: [<ins>`@heartsker`<ins>](https://t.me/heartsker)
+
+Github: [<ins>`@heartsker`<ins>](https://github.com/heartsker)
