@@ -90,6 +90,14 @@ use them in my pet-projects. Without doubt, my competitive programming experienc
     - Developing new module for app
     - Improving existing modules structure
 
+- **Yandex middle iOS developer**
+
+    [***Yandex***](https://yandex.com)
+    
+    *Aug 2022 - now*
+
+    - Working in Yandex.Maps team
+
 ## 🥇 Awards and achievements
 - ***ICPC*** 2020 - Semifinalist
 - ***HashCode*** 2021 - Top-30%
