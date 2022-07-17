@@ -41,6 +41,7 @@ use them in my pet-projects. Without doubt, my competitive programming experienc
 - REST API
 - Makefiles and scripting
 - Managing the project structure
+- CI/CD pipelines: Github Actions, GitLab, Travis CI
 
 ## 🤓 Academic history
 - **Higher School of Economics**
