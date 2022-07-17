@@ -1,5 +1,5 @@
 ## Daniel Pustotin
-*iOS developer*
+Middle *iOS developer*
 
 [📬 Email](daniel.pustotin@gmail.com)
 / [🐙 GitHub](https://github.com/heartsker)
