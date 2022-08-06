@@ -1,105 +1,72 @@
-## Daniel Pustotin
-Middle *iOS developer*
+## Anastasiia Gaiduk
+Junior *iOS developer*
 
-[📬 Email](daniel.pustotin@gmail.com)
-/ [🐙 GitHub](https://github.com/heartsker)
-/ [💬 Telegram](https://t.me/heartsker)
-/ 📲 `+7-(920)-000-81-50`
+[📬 Email](gaikaspb7@gmail.com)
+/ [🐙 GitHub](https://github.com/Ana-rideto)
+/ [💬 Telegram](https://t.me/ana_rideto)
+/ 📲 `+7-(963)-342-48-45`
 
 #### 👋 ABOUT ME
-Hi, my name is Daniel, and I am 20 y.o.
+Hi, my name is Ana, and I am 28 y.o.
 
-I have been learning programming since I was a kid. Solving complex and unordinary problems always attracted me. That is my passion. I cannot imagine my everyday life without trying out something new in my developer's career.
+I have always been fascinated by mathematics and problem solving. A few years ago, I realized that I wanted to be part of the cutting edge of IT development. Since then, programming has been my passion.
 
-I love to lead the development process and control my teammates to follow the plan. Likewise, I am kind of perfectionist at this point. Everything should be done right and that is the only one possible option for me.
+I can't stop thinking about the puzzle until I find the right solution. I always achieve my goals and work for the result. There are no impossible tasks for me.
 
-My dream is to create an innovative and revolutionary product. That must be my masterpiece.
+My dream is to be a creator, not an intermediary. I want to influence the development of technology and be part of the future.
 
 ## 💬 Personal profile
-I started learning programming ten years ago in school. Every day I grow up and improve my skills. I have experience in QA- Engineering and automatic testing and iOS development. I try to follow the latest technologies and
-use them in my pet-projects. Without doubt, my competitive programming experience helps me a lot in any kind of work.
+I learned programming on my own, then through the Skillbox online course, with a tutor and as part of a mini-group with whom we developed several projects. 
+
+The more complex problems I solve, the more I like it. I feel excited and motivated to learn the latest technologies. Therefore, I want to get into a team of strong specialists, from whom I can learn.
+
 ## 💪 Skills
 ### Stack
 - Git
-- Smart SVC
 - JIRA
 - Figma
-- Proxyman
+- CI
+- Linter (creating custom specifications)
 
 ### iOS stack
 - UIKit, SwiftUI, Storyboard
-- Reactive programming: Bond and RxSwift
-- Network: Alamofire, experience with creating and working with REST API
-- Storing data: UserDefaults, CoreData, Realm
-- SpriteKit
-- Unit/UI testing
+- Network: Alamofire, Task, experience in working with REST API
+- Storing data: UserDefaults, CoreDate
 - GCD and operations
 - Asynchronous programming
+- iOS SDK
+- Cocoa Pods
 
 ### Basic knowledge
 - Design patterns
 - REST API
 - Makefiles and scripting
 - Managing the project structure
-- CI/CD pipelines: Github Actions, GitLab, Travis CI
 
 ## 🤓 Academic history
-- **Higher School of Economics**
+- **Moscow Technological Institute**
 
-    Bachelor of Computer Science
+    Bachelor of Economics and Management
     
-    *2019 - 2024*
+    *2020*
+    
+- **Skillbox**  
+    
+   - iOS Developer course
+    
+    *2022*
+    
+- **Self Education**
 
-    [Applied Mathematics and Information Science](https://www.hse.ru/en/ba/ami/)
+   - Practicing with a tutor
 
 ## 👨‍💻 Engineering Experience
 
-- **QA-Engineer**
+- **Developer Club**
 
-    [***GS-Soft***](https://www.gs-soft.com/CMS/en/)
+    *January 2022 - August 2022*
     
-    *May 2018 - July 2021*
+    - Creating a game for iOS
+    - [Working on pet projects](https://github.com/Ana-rideto)
+    - Practicing
 
-    - Full-stack development
-    - Primarily automated testing and QA-engineering
-
-- **iOS-development courses mentor**
-    
-    [***Skillbox***](https://skillbox.ru) 
-
-    *June 2021 - April 2022*
-    
-    - Homework reviews and mentoring
-
-- **iOS-development courses creator**
-
-    [***Skillbox***](https://skillbox.ru)
-
-    *September 2021 - April 2022*
-
-    - Improvements of existing courses
-    - Creating tasks and theory long reads for students
-
-- **Tinkoff iOS developer internship**
-
-    [***Tinkoff***](https://www.tinkoff.ru)
-    
-    *Feb 2022 - May 2022*
-
-    - Fixing critical issues and vulnerabilities
-    - Implementing new features for Mobile Bank
-    - Developing new module for app
-    - Improving existing modules structure
-
-- **Yandex middle iOS developer**
-
-    [***Yandex***](https://yandex.com)
-    
-    *Aug 2022 - now*
-
-    - Working in Yandex.Maps team
-
-## 🥇 Awards and achievements
-- ***ICPC*** 2020 - Semifinalist
-- ***HashCode*** 2021 - Top-30%
-- ***Reply Challenge*** 2021 - #105 of 1923
